@@ -4,7 +4,6 @@
 
 
 
-<br>
 
 <h2>💻 Sobre o projeto</h2>
 <p>Segundo projeto do Intensivão de JavaScript do canal  <a href="https://www.youtube.com/@HashtagProgramacao" target="_blank">Hashtag Programação.</a> O principal objetivo do intensivão era práticar a utilização do JavaScript na construção de páginas web no front-end e back-end. A proposta do projeto é criar um clone da página de venda do Apple Watch.</p> 
