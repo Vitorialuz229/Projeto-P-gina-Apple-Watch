@@ -12,6 +12,9 @@
 <h2>👩‍🎓 O que aprendi</h2>
  Ao longo do projeto foi trabalhado funções, manipulação do DOM da página(Criação de objetos, arrays,troca de elementos, eventos com click, trabalhando com classes, alteração de conteúdo e alteração de atributos) e estrutura de condicionais.
 
+<h3><strong><a href="https://vitorialuz229.github.io/Projeto-Pagina-Apple-Watch/" target="_blank">Link do projeto</a></strong></h3>
+<hr/>
+
 <h2>🛠 Tecnologias</h2>
 <ul>
     <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a></li>
